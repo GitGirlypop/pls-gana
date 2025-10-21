@@ -1,0 +1,12 @@
+h1,h2{color:blueviolet;}
+.box>p.done{color:firebrick;}
+.list li:first-child {
+  color: blue;
+}
+.list > .done {
+  color: seagreen;
+}
+
+body>ul>.done{font-size:.5rem;}
+
+
